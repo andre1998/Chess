@@ -1,0 +1,13 @@
+ax\ha\it\chessgame\board\Board.class
+ax\ha\it\chessgame\pieces\King.class
+ax\ha\it\chessgame\pieces\Queen.class
+ax\ha\it\chess\Dialog\PostGame.class
+ax\ha\it\chessgame\pieces\Knight.class
+ax\ha\it\chess\Dialog\Promote.class
+ax\ha\it\chessgame\pieces\Rook.class
+ax\ha\it\chess\MainApp.class
+ax\ha\it\chessgame\pieces\Pawn.class
+ax\ha\it\chessgame\pieces\Piece.class
+ax\ha\it\chessgame\pieces\Bishop.class
+ax\ha\it\chess\MainApp$1.class
+ax\ha\it\chessgame\board\Square.class
